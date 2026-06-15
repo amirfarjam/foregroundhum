@@ -20,7 +20,7 @@ theme = "PaperMod"
   useDescription = true
 
 [params.giscus]
-  repo = "amirfarjam/circuitdiaries"
+  repo = "amirfarjam/foregroundhum"
   repoID = "R_kgDOQZM0Aw"
   category = "Comments"
   categoryID = "DIC_kwDOQZM0A84CyAh6"
@@ -60,7 +60,7 @@ theme = "PaperMod"
   [[menu.main]]
     identifier = "github"
     name = "GitHub"
-    url = "https://github.com/amirfarjam/circuitdiaries"
+    url = "https://github.com/amirfarjam/foregroundhum"
     weight = 2
 
   [[menu.main]]
